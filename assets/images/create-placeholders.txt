@@ -1,0 +1,14 @@
+Placeholder images needed:
+- project-hr-dashboard.jpg
+- project-ml-forecast.jpg
+- project-production.jpg
+- project-eda.jpg
+- project-automation.jpg
+- project-manhour.jpg
+- certificate-1.jpg
+- certificate-2.jpg
+- event-1.jpg
+- event-2.jpg
+
+Note: User will replace these with actual screenshots from their document.
+For now, we'll use URLs from Unsplash for demo purposes.
